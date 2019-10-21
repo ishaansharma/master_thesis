@@ -1,0 +1,11 @@
+# some extra python libs that are used in the sample codes are:
+
+pandas
+numpy
+scipy
+haversine
+shapely
+paho-mqtt
+matplotlib
+basemap
+seaborn,
